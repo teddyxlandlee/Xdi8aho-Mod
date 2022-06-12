@@ -1,0 +1,8 @@
+{
+  "providers": [
+    {
+      "type": "xdi8-fonts:ttf_extended",
+      "file": "xdi8-fonts:font/Xdi8Base.ttf"
+    }
+  ]
+}
